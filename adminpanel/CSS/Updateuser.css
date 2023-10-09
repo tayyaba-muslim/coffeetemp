@@ -1,0 +1,28 @@
+.zain {
+    margin: 0 auto 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+label {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.zain form input {
+    border-radius: 200px;
+}
